@@ -1,0 +1,8 @@
+Define Software Engineering:
+
+The method of designing, creating, testing, and maintaining software is known as software engineering. It is an organised, methodical approach to software development with the goal of producing software that is dependable, high-quality, and maintainable.
+While programming primarily focuses on writing code, or creating specific functions or modules within software applications without having to consider the entire system, software engineering also takes requirements analysis, testing, and project management into consideration in addition to coding.
+
+References:
+GeeksforGeeks. (2024, April 30). Introduction to software engineering - software engineering. https://www.geeksforgeeks.org/software-engineering-introduction-to-software-engineering/
+Software engineering vs programming, is there a difference?. Agira Technologies. (2019, August 1). https://www.agiratech.com/software-engineering-vs-programming-what-is-the-difference  
